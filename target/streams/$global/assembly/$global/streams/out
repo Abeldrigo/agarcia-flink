@@ -1,0 +1,43 @@
+[0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
+[0m[[0m[0minfo[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
+[0m[[0m[0minfo[0m] [0m[0mSHA-1: b9c5bda7e7f743b39d835638d216d480c0969569[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/enki/aga-flink/target/scala-2.11/aga-flink-assembly-0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/Job$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/Job$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/Job.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/Job.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/SocketTextStreamWordCount$$anon$2$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/SocketTextStreamWordCount$$anon$2$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/SocketTextStreamWordCount$$anon$2$$anonfun$createSerializer$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/SocketTextStreamWordCount$$anon$2$$anonfun$createSerializer$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/SocketTextStreamWordCount$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/SocketTextStreamWordCount$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/SocketTextStreamWordCount$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/SocketTextStreamWordCount$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/SocketTextStreamWordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/SocketTextStreamWordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/SocketTextStreamWordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/SocketTextStreamWordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/SocketTextStreamWordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/SocketTextStreamWordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/SocketTextStreamWordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/SocketTextStreamWordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/WordCount$$anon$2$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/WordCount$$anon$2$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/WordCount$$anon$2$$anonfun$createSerializer$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/WordCount$$anon$2$$anonfun$createSerializer$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/WordCount$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/WordCount$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/WordCount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/WordCount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	cic/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/cic/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/enki/aga-flink/target/streams/$global/assemblyOption/$global/streams/assembly/1a812ab566e2d3e7177bda958f5229cc183cf0eb_dir/log4j.properties[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
